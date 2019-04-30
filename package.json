@@ -27,10 +27,14 @@
     "tab-bar",
     "tab-view"
   ],
-  "author": "ZubinTang",
+  "author": "Shahar David",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zbtang/React-Native-ViewPager/issues"
+    "url": "https://github.com/shahardavid/React-Native-ViewPager/issues"
   },
-  "homepage": "https://github.com/zbtang/React-Native-ViewPager#readme"
+  "homepage": "https://github.com/shahardavid/React-Native-ViewPager#readme",
+  "peerDependencies": {
+    "react-native": "^0.59.5",
+    "@react-native-community/viewpager": "^1.1.6"
+  }
 }
